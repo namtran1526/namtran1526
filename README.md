@@ -82,12 +82,12 @@ I am seeking internship opportunities in **IT Business Analyst, Data Analyst, or
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=namtran1526&show_icons=true&theme=tokyonight&hide_rank=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=namtran1526&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namtran1526&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <i>Currently building my foundation through continuous learning, practice projects, and personal exploration in Data, Business, and Technology.</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namtran1526&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namtran1526&theme=tokyonight" width="48%" />
 </p>
 
 ---
