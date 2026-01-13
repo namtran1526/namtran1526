@@ -82,7 +82,7 @@ I am seeking internship opportunities in **IT Business Analyst, Data Analyst, or
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/namtran1526?template=classic&introduction=1&languages=1&stars=1&repositories=1&config.timezone=Asia/Ho_Chi_Minh" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namtran1526&theme=tokyonight" />
 </p>
 
 <p align="center">
