@@ -15,25 +15,46 @@
 
 ## 💫 About Me  
 
-I am a Computer Science student at VNU University of Engineering and Technology (UET) with a strong interest in data analytics, business analysis, and business intelligence.
+🎓 I am a Computer Science student at **VNU University of Engineering and Technology (UET)**.
 
-I am not only interested in writing code, but more passionate about understanding how technology supports business decision making. I enjoy analyzing problems, structuring information, and transforming data into insights that can be understood by non-technical people.
+📊 I am passionate about using **data to support business decision making**. What attracts me to Data Analytics, Business Analysis, and Business Intelligence is the ability to rely on data to analyze situations, evaluate options, and help businesses choose the right direction for sustainable growth.
 
-My long-term goal is to become a hybrid professional who can work as an IT Business Analyst, Data Analyst, and BI Developer. I want to be the person who connects business requirements with technical solutions using data.
+💡 I am more interested in **business impact** than pure technology. I believe data only becomes valuable when it helps people make better decisions.
 
-I believe that good analysis is not only about numbers, but also about understanding people, processes, and business objectives.
+🎯 My long-term goal is to become a **hybrid professional** who can work as an IT Business Analyst, Data Analyst, and BI Developer, connecting business requirements with technical solutions through structured analysis and data visualization.
 
-My mindset:
+---
 
-Think like a Business Analyst.  
-Analyze like a Data Analyst.  
-Visualize like a BI Developer.
+### 🧠 Mindset  
 
-Outside of technology, I am a curious learner who enjoys exploring how business, marketing, and consumer behavior interact with data.
+*Think like a Business Analyst.*  
+*Analyze like a Data Analyst.*  
+*Visualize like a BI Developer.*
 
-Language:  
-Vietnamese (Native)  
-English (Basic – improving for global working environment)
+---
+
+### 🌱 Personal Side  
+
+I enjoy watching movies, playing games, playing football, creating content, casual photography, and traveling. These activities help me stay creative, observant, and open to new perspectives.
+
+---
+
+### 🤝 Personality  
+
+I describe myself as a persistent, curious, kind, and easy-to-work-with person. I enjoy learning deeply, exploring problems carefully, and collaborating harmoniously with others.
+
+---
+
+### 🌍 Background  
+
+From **Thai Binh**, currently living in **Hanoi**, Vietnam.
+
+---
+
+### 🌍 Language  
+
+Vietnamese: Native  
+English: Basic (improving for global working environment)
 
 ---
 
@@ -94,10 +115,4 @@ I am seeking internship opportunities in IT Business Analyst, Data Analyst, or B
 <a href="mailto:namtran152006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
-
----
-
-<p align="center">
-⭐ From Vietnam with passion for Data, Business & Technology
 </p>
