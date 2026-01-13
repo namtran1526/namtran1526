@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/3o7TKSjPqcKqh4SCT6/giphy.gif" width="35"> I'm Tran Hoai Nam  
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"> Welcome to Nam Tran's GitHub Profile 👋 
 
 ### 📈 IT Business Analyst | Data Analyst | BI Developer  
 *Turning Data into Business Decisions.*
