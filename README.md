@@ -35,8 +35,8 @@
 
 ## 🌐 Languages  
 
-🇻🇳 **Vietnamese:** Native  
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English:** Basic – Improving for professional and global working environment  
+**Vietnamese:** Native  
+**English:** Basic – Improving for professional and global working environment  
 
 ---
 
@@ -92,7 +92,7 @@ I am seeking internship opportunities in **IT Business Analyst, Data Analyst, or
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nam-tran-hoai-aa5229384/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:namtran152006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -101,15 +101,15 @@ I am seeking internship opportunities in **IT Business Analyst, Data Analyst, or
 <img src="https://img.shields.io/badge/Facebook-Personal-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/nam.tc_15" target="blank">
-<img src="https://img.shields.io/badge/Instagram-Creative-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.tiktok.com/@nam.tc_15" target="blank">
-<img src="https://img.shields.io/badge/TikTok-Content%20Creator-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+<img src="https://img.shields.io/badge/TikTok-Personal-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-⭐️ From 🇻🇳 with passion for Data, Business and Continuous Growth
+⭐️ From Vietnam with passion for Data, Business and Continuous Growth
 </p>
